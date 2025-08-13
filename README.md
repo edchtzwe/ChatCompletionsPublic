@@ -4,6 +4,7 @@
 <img width="1487" height="1097" alt="2025-08-13_22-46" src="https://github.com/user-attachments/assets/2fc9737c-6d4b-4f76-b959-7a8bba7e59dc" />
 <img width="1832" height="1103" alt="2025-08-13_22-45" src="https://github.com/user-attachments/assets/89348309-0b66-4133-b094-9e428d36a032" />
 <img width="1568" height="1121" alt="2025-08-13_22-59" src="https://github.com/user-attachments/assets/f7cc03df-ba56-4a88-b8b7-adb1a7694f43" />
+<img width="1567" height="1126" alt="2025-08-13_23-02" src="https://github.com/user-attachments/assets/de931bd7-8549-42bf-a3c4-7dfba469918d" />
 
 # AI Orchestration Platform
 
