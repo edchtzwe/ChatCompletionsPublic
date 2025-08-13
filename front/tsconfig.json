@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "strict": false,
+    "jsx": "react-jsx",
+    "baseUrl": "./",
+    "paths": {
+      "@store/*": ["src/stores/*"],
+      "@views/*": ["src/views/*"],
+      "@components/*": ["src/components/*"],
+      "@services/*": ["src/services/*"],
+    }
+  }
+}
